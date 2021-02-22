@@ -9,4 +9,4 @@ A great thing about it is that it can apply multiple filters at once!
 
 ![Filter Table Demo 2](https://github.com/jlozano1990/UFOs/blob/main/images/fiter%20table%20demo%202.PNG)
 ## Summary
-One drawback of our current design is that the filter search is case-sensitive. So if you put in NY as opposed to ny when looking for the state, it won't return the correct info. One recommendation for future development would be to fix it so that it works whether the words are input in upper or lower case letters. A second recommendation would be to allow users to filter by time elapsed. People would probably like to see the shortest or longest UFO sightings in an easy way.
+One drawback of our current design is that the filter search is case-sensitive. So if you put in NY as opposed to ny when looking for the state, it won't return the correct info. One recommendation for future development would be to fix it so that it works whether the words are input in upper or lower case letters. A second recommendation would be to allow users to filter by duration of event. People would probably like to see the shortest or longest UFO sightings in an easy way.
